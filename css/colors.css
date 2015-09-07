@@ -1,0 +1,32 @@
+section {
+  height: 25rem;
+  width: 100%;
+}
+
+.c1 {
+  background-color: #ff0000;
+}
+
+.c2 {
+  background-color: #ff7000;
+}
+
+.c3 {
+  background-color: #fff000;
+}
+
+.c4 {
+  background-color: #0eff00;
+}
+
+.c5 {
+  background-color: #009cff;
+}
+
+.c6 {
+  background-color: #5300ff;
+}
+
+.c7 {
+  background-color: #c300ff;
+}
